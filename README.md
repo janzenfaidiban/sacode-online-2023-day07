@@ -5,5 +5,5 @@ https://janzenfaidiban.github.io/sacode-online-2023-day07/
 
 ## Screenshots hasil belajar
 
-<img src="./__screenshots/1.png">
+<img src="./__screenshots/01.png">
 
